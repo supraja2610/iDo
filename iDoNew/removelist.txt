@@ -1,0 +1,4 @@
+delstr
++
+good
+remove tasks

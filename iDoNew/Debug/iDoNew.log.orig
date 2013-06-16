@@ -1,0 +1,17 @@
+﻿Build started 12/11/2012 3:52:27 PM.
+     1>Project "C:\Users\aravin\Desktop\iDoNew\iDoNew\iDoNew.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\iDo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         iDoNew.vcxproj -> C:\Users\aravin\Desktop\iDoNew\Debug\iDo.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\iDo.unsuccessfulbuild".
+         Touching "Debug\iDo.lastbuildstate".
+     1>Done Building Project "C:\Users\aravin\Desktop\iDoNew\iDoNew\iDoNew.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16

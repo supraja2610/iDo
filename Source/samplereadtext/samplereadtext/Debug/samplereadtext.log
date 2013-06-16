@@ -1,0 +1,27 @@
+﻿Build started 8/11/2012 10:22:00 AM.
+     1>Project "C:\Users\Supraja\Documents\Visual Studio 2012\Projects\cs2103aug12-t10-2c\Source\samplereadtext\samplereadtext\samplereadtext.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\samplereadtext.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         samplereadtext.vcxproj -> C:\Users\Supraja\Documents\Visual Studio 2012\Projects\cs2103aug12-t10-2c\Source\samplereadtext\Debug\samplereadtext.exe
+       MetaGen:
+       Skipping target "MetaGen" because all output files are up-to-date with respect to the input files.
+       FinalizeBuildStatus:
+         Deleting file "Debug\samplereadtext.unsuccessfulbuild".
+         Touching "Debug\samplereadtext.lastbuildstate".
+     1>Done Building Project "C:\Users\Supraja\Documents\Visual Studio 2012\Projects\cs2103aug12-t10-2c\Source\samplereadtext\samplereadtext\samplereadtext.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.17

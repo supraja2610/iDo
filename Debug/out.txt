@@ -1,0 +1,31 @@
+[==========] Running 11 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 11 tests from basic_test
+[ RUN      ] basic_test.cmdProcessor
+[       OK ] basic_test.cmdProcessor (1 ms)
+[ RUN      ] basic_test.intProcessor
+[       OK ] basic_test.intProcessor (1 ms)
+[ RUN      ] basic_test.cmdType
+[       OK ] basic_test.cmdType (0 ms)
+[ RUN      ] basic_test.trim
+[       OK ] basic_test.trim (1 ms)
+[ RUN      ] basic_test.istime
+[       OK ] basic_test.istime (1 ms)
+[ RUN      ] basic_test.parseDateTime
+[       OK ] basic_test.parseDateTime (0 ms)
+[ RUN      ] basic_test.addZeroes
+[       OK ] basic_test.addZeroes (1 ms)
+[ RUN      ] basic_test.undoTask
+[       OK ] basic_test.undoTask (1 ms)
+[ RUN      ] basic_test.redoTask
+[       OK ] basic_test.redoTask (1 ms)
+[ RUN      ] basic_test.addTask
+[       OK ] basic_test.addTask (3 ms)
+[ RUN      ] basic_test.searchTask
+				 ****iDo****No. Task Description                     From/At           To               1TestMay 11 20:00 2012May 11 21:00 20122TestMay 11 20:00 2012May 11 21:00 20123TestMay 11 20:00 2012May 11 21:00 20124TestMay 11 20:00 2012May 11 21:00 20125TestMay 11 20:00 2012May 11 21:00 20126TestMay 11 20:00 2012May 11 21:00 20127TestMay 11 20:00 2012May 11 21:00 20128TestMay 11 20:00 2012May 11 21:00 20129TestMay 11 20:00 2012May 11 21:00 201210TestMay 11 20:00 2012May 11 21:00 201211TestMay 11 20:00 2012May 11 21:00 201212TestMay 11 20:00 2012May 11 21:00 201213TestMay 11 20:00 2012May 11 21:00 2012[       OK ] basic_test.searchTask (52 ms)
+[----------] 11 tests from basic_test (62 ms total)
+
+[----------] Global test environment tear-down
+[==========] 11 tests from 1 test case ran. (62 ms total)
+[  PASSED  ] 11 tests.
+				 ****iDo****No. Task Description                     From/At           To               Valid Commands: add, delete, search, edit, undo, redo, alternate, exit.Enter Command: Successfully added task to schedule.Valid Commands: add, delete, search, edit, undo, redo, alternate, exit.Enter Command: 

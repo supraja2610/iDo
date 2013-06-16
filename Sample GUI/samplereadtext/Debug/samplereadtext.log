@@ -1,0 +1,27 @@
+﻿Build started 12/11/2012 11:53:03 PM.
+     1>Project "C:\Users\Supraja\Documents\Visual Studio 2010\Projects\samplereadtext\samplereadtext\samplereadtext.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\iDoGUI.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         samplereadtext.vcxproj -> C:\Users\Supraja\Documents\Visual Studio 2010\Projects\samplereadtext\Debug\iDoGUI.exe
+       MetaGen:
+       Skipping target "MetaGen" because all output files are up-to-date with respect to the input files.
+       FinalizeBuildStatus:
+         Deleting file "Debug\iDoGUI.unsuccessfulbuild".
+         Touching "Debug\iDoGUI.lastbuildstate".
+     1>Done Building Project "C:\Users\Supraja\Documents\Visual Studio 2010\Projects\samplereadtext\samplereadtext\samplereadtext.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57

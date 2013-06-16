@@ -1,0 +1,21 @@
+﻿Build started 11/11/2012 4:57:15 PM.
+     1>Project "C:\Users\Spatika\Documents\Visual Studio 2010\Projects\iDoNew\Source\gtest-1.6.0\msvc\gtest.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Creating "C:\Users\Spatika\Documents\Visual Studio 2010\Projects\iDoNew\libgtest\gtest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         gtest-all.cc
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(C:\Users\Spatika\Documents\Visual Studio 2010\Projects\iDoNew\lib\gtest.lib) does not match the Library's OutputFile property value (C:\Users\Spatika\Documents\Visual Studio 2010\Projects\iDoNew\lib\gtestd.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1153,5): warning MSB8012: TargetName(gtest) does not match the Library's OutputFile property value (gtestd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         All outputs are up-to-date.
+         gtest.vcxproj -> C:\Users\Spatika\Documents\Visual Studio 2010\Projects\iDoNew\lib\gtest.lib
+       FinalizeBuildStatus:
+         Deleting file "C:\Users\Spatika\Documents\Visual Studio 2010\Projects\iDoNew\libgtest\gtest.unsuccessfulbuild".
+         Touching "C:\Users\Spatika\Documents\Visual Studio 2010\Projects\iDoNew\libgtest\gtest.lastbuildstate".
+     1>Done Building Project "C:\Users\Spatika\Documents\Visual Studio 2010\Projects\iDoNew\Source\gtest-1.6.0\msvc\gtest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
